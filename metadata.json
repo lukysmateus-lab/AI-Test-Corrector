@@ -1,0 +1,5 @@
+{
+  "name": "AI Test Grader",
+  "description": "An intelligent application that uses AI to automatically grade multiple-choice test papers from an uploaded image. Users can provide an answer key and instantly see the results, including a question-by-question breakdown.",
+  "requestFramePermissions": []
+}
